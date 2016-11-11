@@ -1,0 +1,9 @@
+https 线上的
+com.alibaba.alibeehive.web.module.mobile.screen.parking.Payment
+
+停服务 ../bin/shutdown.sh
+启动  ../bin/startup.sh
+
+114.55.100.88/New1Day12011
+ 发布路径  发布路径 /usr/local/apache-tomcat-7.0.68/webapps
+查看tomcat进程     ps -ef |grep tomcat
